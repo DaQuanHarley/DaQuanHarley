@@ -1,7 +1,33 @@
-## Hi there 👋
+<h1>Hi, I'm DaQuan! an <br/><a <a href="https://www.linkedin.com/in/daquan-harley-aba787345/">IT Professional</a>
+
+<h2>👨‍💻 Informational Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System) (AlgoExpert)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Microsoft Azure</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+
+
+
+ <h2> 📝 Certifications:<h2>
+   
+- <b>CourseCareers<b>
+  - [Informational Technology]
+
+
+  
+<h2> 🤳 Connect with me:</h2>
+
+
+  
+[<img align="left" alt="daquan-harley-aba787345 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/daquan-harley-aba787345/
 
 <!--
-**DaQuanHarley/DaQuanHarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
