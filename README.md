@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Informational Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System) (AlgoExpert)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/DaQuanHarley/osTicket-PreReqs.git)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 
