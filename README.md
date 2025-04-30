@@ -1,4 +1,4 @@
-<h1>Hi, I'm DaQuan, an <br/><a <a href="https://www.linkedin.com/in/daquan-harley-aba787345/">IT Technician</a>☺</h1>
+<h1>Hi, I'm DaQuan, an <a <a href="https://www.linkedin.com/in/daquan-harley-aba787345/">IT Technician</a>☺</h1>
 
 <h2>👨‍💻 Informational Technology Projects:</h2>
 
